@@ -23,18 +23,8 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * [CSS3](https://pt.wikipedia.org/wiki/CSS3)
 * [Javascript](https://pt.wikipedia.org/wiki/JavaScript)
 
-### Frameworks and Libraries
-
-_Did you use any aditional libraries? Describe them here._
-* Docker
-* Multipass
-* NodeJS
-* JQuery
-* Laravel
-* Bootstrap
 
 ## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Project presentation
 * C1: [Project presentation](doc/c1.md)
@@ -46,6 +36,6 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 * C4: [Presentation](doc/c4.md)
 
 ## Team
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+* Inês Ribeiro Peneda [@InêsPeneda](https://github.com/a037135)
+* Nicolao Garcia Negrello [@NicolaoNegrello](https://github.com/nicolaonegrello)
 
