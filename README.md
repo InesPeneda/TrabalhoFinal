@@ -9,7 +9,7 @@ O nosso tema de trabalho é sobre a construção de uma plataforma on-line que o
 ## Organização do Repositório
 
 * **Source code** está em [src folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/src).
-* Report chapters está em [doc folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/Doc).
+* O repositório está em [doc folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/Doc).
 
 ## Galeria Produto Final
 
