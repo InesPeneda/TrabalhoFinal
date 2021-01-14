@@ -8,8 +8,8 @@ O nosso tema de trabalho é sobre a construção de uma plataforma on-line que o
 
 ## Organização do Repositório
 
-* **Source code** está em [src folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/src).
-* O repositório está em [doc folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/Doc).
+* **Source code** está em [src folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/src)
+* O repositório está em [doc folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/Doc)
 
 ## Galeria Produto Final
 
@@ -42,7 +42,7 @@ O nosso tema de trabalho é sobre a construção de uma plataforma on-line que o
 ### Produto
 * C3: [Produto](https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./C3.md)
 ### Apresentação
-* Apresentação: [Apresentação] (https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./Apresenta%C3%A7%C3%A3o_TecnologiasWeb_PSG%20(1).pdf)
+* C4: [Apresentação](https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./Apresenta%C3%A7%C3%A3o_TecnologiasWeb_PSG%20(1).pdf)
 
 ## Team
 * Inês Ribeiro Peneda [@InêsPeneda](https://github.com/a037135)
