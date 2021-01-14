@@ -6,9 +6,8 @@ Repositório que contém o projeto desenvolvido para a cadeira de Tecnologias We
 
 O nosso tema de trabalho é sobre a construção de uma plataforma on-line que oferece vários tipos de serviços, desde um eletricista, canalizador, alguém para fazer limpezas, cuidar das crianças, ajudar nas mudanças. Estes serviços são providenciados por pessoas que se irão inscrever na plataforma para fornecer as suas habilidades em certas áreas de trabalho.
 
-## Repository organization
+## Organização do Repositório
 
-_Please help reader navigate around describing how the repository is organized by providing links_
 * **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
 * Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
 
@@ -19,12 +18,10 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
-* XML
-* HTML5 + CSS3
-* Javascript
-* PHP
-* _Any other?_
+* [XML](https://pt.wikipedia.org/wiki/XML)
+* [HTML5](https://pt.wikipedia.org/wiki/HTML)
+* [CSS3](https://pt.wikipedia.org/wiki/CSS3)
+* [Javascript](https://pt.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks and Libraries
 
