@@ -8,15 +8,24 @@ O nosso tema de trabalho é sobre a construção de uma plataforma on-line que o
 
 ## Organização do Repositório
 
-* **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
-* Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
+* **Source code** está em [src folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/src).
+* Report chapters está em [doc folder](https://github.com/TrabalhoFinalG5/TrabalhoFinal/tree/main/Doc).
 
-## Galery
+## Galeria Produto Final
 
-_Please provide a galery of the final result, with small images_
-A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images
+![Artboard 1 copy 8](https://user-images.githubusercontent.com/75780256/104549994-ce521380-562b-11eb-83eb-3913824ce540.png)
 
-## Technologies
+![Artboard 1 copy 7](https://user-images.githubusercontent.com/75780256/104550020-ddd15c80-562b-11eb-9f33-ac392d3ab21b.png)
+
+![Artboard 1 copy 6](https://user-images.githubusercontent.com/75780256/104550042-e7f35b00-562b-11eb-9e4a-f1a982fd09d4.png)
+
+![Artboard 1 copy 5](https://user-images.githubusercontent.com/75780256/104550058-f3df1d00-562b-11eb-8c45-df2aa7b535c2.png)
+
+![Artboard 1 copy 4](https://user-images.githubusercontent.com/75780256/104550082-fd688500-562b-11eb-878d-0126b6fa60f8.png)
+
+
+
+## Tecnologias
 
 * [XML](https://pt.wikipedia.org/wiki/XML)
 * [HTML5](https://pt.wikipedia.org/wiki/HTML)
@@ -24,16 +33,16 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * [Javascript](https://pt.wikipedia.org/wiki/JavaScript)
 
 
-## Report
+## Repositório
 
-### Project presentation
-* C1: [Project presentation](doc/c1.md)
-### User Interface 
-* C2: [User Interface Prototype and Sitemap](doc/c2.md)
-### Product
-* C3: [Product](doc/c3.md)
-### Presentation
-* C4: [Presentation](doc/c4.md)
+### Apresentação do Projeto
+* C1: [Apresentação do Projeto](https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./C1.md)
+### Interface do Utilizador 
+* C2: [Interface do Utilizador](https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./C2.md)
+### Produto
+* C3: [Produto](https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./C3.md)
+### Apresentação
+* Apresentação: [Apresentação] (https://github.com/TrabalhoFinalG5/TrabalhoFinal/blob/main/Doc./Apresenta%C3%A7%C3%A3o_TecnologiasWeb_PSG%20(1).pdf)
 
 ## Team
 * Inês Ribeiro Peneda [@InêsPeneda](https://github.com/a037135)
