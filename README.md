@@ -1,6 +1,6 @@
 # PSG Services
 
-Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ALPHA : [@NicolaoNegrello](https://github.com/nicolaonegrello)[@InêsPeneda] (https://github.com/a037135) [@MarcoOliveira](https://github.com/marcoamarooliveira).
+Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ALPHA : [@NicolaoNegrello](https://github.com/nicolaonegrello)[@InêsPeneda](https://github.com/a037135) [@MarcoOliveira](https://github.com/marcoamarooliveira).
 
 ## Short theme description
 
