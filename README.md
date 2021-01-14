@@ -1,4 +1,4 @@
-# PSG Services
+# Prestação de Serviços Gerais (PSG)
 
 Repositório que contém o projeto desenvolvido para a cadeira de Tecnologias Web do 2º ano de TCM do Instituto Universitário da Maia. DEsenvolvido pelo Grupo 5 : [@NicolaoNegrello](https://github.com/nicolaonegrello) [@InêsPeneda](https://github.com/a037135) Orientado por: [@MarcoOliveira](https://github.com/marcoamarooliveira).
 
