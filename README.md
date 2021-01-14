@@ -2,9 +2,9 @@
 
 Repositório que contém o projeto desenvolvido para a cadeira de Tecnologias Web do 2º ano de TCM do Instituto Universitário da Maia. Desenvolvido pelo Grupo 5 : [@NicolaoNegrello](https://github.com/nicolaonegrello) [@InêsPeneda](https://github.com/a037135) Orientado por: [@MarcoOliveira](https://github.com/marcoamarooliveira).
 
-## Short theme description
+## Curta Descrição do Tema
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
+O nosso tema de trabalho é sobre a construção de uma plataforma on-line que oferece vários tipos de serviços, desde um eletricista, canalizador, alguém para fazer limpezas, cuidar das crianças, ajudar nas mudanças. Estes serviços são providenciados por pessoas que se irão inscrever na plataforma para fornecer as suas habilidades em certas áreas de trabalho.
 
 ## Repository organization
 
